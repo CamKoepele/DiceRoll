@@ -1,7 +1,7 @@
 #diceroll.py
 #koepele
 #4/2020
-#create a program that rolls to di and stores the totals in a dic
+#create a program that rolls two di and stores the totals in a dic
 import random
 
 #create func to roll to dice and find sum
